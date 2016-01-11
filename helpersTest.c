@@ -12,4 +12,5 @@
 
 void printInfo(){
     printf("print info function\n");
+    printf("edit\n");
 }
